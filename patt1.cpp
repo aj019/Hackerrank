@@ -4,8 +4,9 @@ using namespace std;
 
 int main(){
 
- int a,b,c;
+ int a,b,c,d;
  for(a=1;a<=3;a++){
+
     for(b=3-a;b>0;b--){
         cout<<" ";
     }
